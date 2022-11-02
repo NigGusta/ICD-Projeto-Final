@@ -15,7 +15,7 @@
 
 **Perguntas:**
 </br>
-* Qual o perfil dos eleitores nas seções eleitorais em que Bolsonaro e Lula ganharam? </br>
+* Qual o perfil dos eleitores das seções eleitorais de João Pessoa em que Bolsonaro e Lula ganharam? </br>
 * Qual a seção eleitoral onde a maioria são mulheres? </br>
 * Qual a seção eleitoral onde a maioria são homens? </br>
 * Qual seção eleitoral possui mais idosos? </br>
