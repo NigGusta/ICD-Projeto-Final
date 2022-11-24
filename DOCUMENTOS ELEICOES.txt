@@ -1,1 +1,0 @@
-dados dos eleitores - "https://basedosdados.org/dataset/br-tse-eleicoes?bdm_table=receitas_candidato"
