@@ -18,8 +18,8 @@
 * Qual o perfil dos eleitores das seções eleitorais de João Pessoa em que Bolsonaro e Lula ganharam? </br>
 * Qual a seção eleitoral onde a maioria são mulheres? </br>
 * Qual a seção eleitoral onde a maioria são homens? </br>
-* Qual seção eleitoral possui mais jovens? </br>
-* Qual seção eleitoral possui mais idosos? </br>
+* Qual zona eleitoral possui mais jovens? </br>
+* Qual zona eleitoral possui mais idosos? </br>
 * Qual seção eleitoral possui mais eleitores com ensino superior completo? </br>
 * Qual seção eleitoral possui mais eleitores analfabetos? </br>
 
